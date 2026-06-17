@@ -123,8 +123,9 @@ resource "yandex_lb_network_load_balancer" "balancer1" {
 
 `
 
-![Задание 1]()
-[haproxy1]()`
+![Задание 1](screenshots/HW-10-04-Task-1-1.png)
+![Задание 1](screenshots/HW-10-04-Task-1-2.png)
+[Main.tf](config/main.tf)`
 
 
 ---
